@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Ilya Nikolenko](https://up.htmlacademy.ru/react/13/user/1406023).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Ткачук](https://htmlacademy.ru/profile/id2397393).
 
 ---
 
